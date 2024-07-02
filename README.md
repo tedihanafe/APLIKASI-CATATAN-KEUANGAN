@@ -3,10 +3,7 @@
 ## Fitur apa saja yang tersedia di aplikasi catatan keuangan?
 
 -   Autentikasi Admin
--   User & CRUD
--   Merek & CRUD
--   Mobil & CRUD
--   Order & CRUD
+-   CRUD
 -   Dan lain-lain
 
 ## Release Date
